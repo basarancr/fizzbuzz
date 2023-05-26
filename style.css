@@ -1,0 +1,13 @@
+#fizzbuzz-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    margin: 10px;
+}
+
+span {
+    margin: 10px;
+    line-height: 30px;
+}
